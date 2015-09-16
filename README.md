@@ -27,7 +27,7 @@ This indicates what is used to separate entries in your CSV files.
 Some CSV files use ";", while others use "," or tabs.
 Any character entered here will be regarded as a comma-separator when reading the CSV.
 
-***Skip Lines:**
+**Skip Lines:**
 
 In case your CSV files contains initial lines that do not contain actual data, such as titles and headers,
 you can indicate how many of such lines should be skipped, by entering that number here.
